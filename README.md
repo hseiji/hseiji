@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m a student on Lighthouse Labs and working on side projects.
-- 🌱 I’m currently learning Gatsby and GraphQL
+- 🔭 I’m currently open for new opportunities
+- 🌱 I’m learning Gatsby and GraphQL
 - 👯 I’m looking to collaborate on new projects
