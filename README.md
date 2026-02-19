@@ -11,4 +11,6 @@
 - 🚀 Building projects focused on data processing, transformation, and analytics engineering
 
 
-Link to my page > [https://hseiji.github.io/about/](https://hseiji.github.io/about/)
+<br>
+
+Link to my page > <a href="https://hseiji.github.io/about/" target="_blank">https://hseiji.github.io/about/</a>
