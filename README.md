@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently open for new opportunities
-- 🌱 I’m learning Machine Learning
-- 👯 I’m looking to collaborate on new projects
+💻 Data-focused developer with a strong foundation in Business Analysis & Automation in financial institutions.
+
+🔧 Experienced in JavaScript, Python, SQL, VBA, and building data-driven solutions 
+📊 Passionate about data pipelines, ETL processes, and scalable data systems
+🌱 Currently deepening my knowledge in Data Engineering (Databricks, Airflow, Spark, Cloud, DB design) 
+🚀 Building projects focused on data processing, transformation, and analytics engineering
 
 [https://hseiji.github.io/](https://hseiji.github.io/)
